@@ -23,7 +23,7 @@ body {
 .card {
   justify-content: space-around;
   gap: 1em;
-  width: 80%;
+  width: fit-content;
   display: flex;
   flex-direction: column;
   text-align: center;
