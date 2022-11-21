@@ -1,4 +1,4 @@
-# Página estática de Rodapé
+# Página estática - Rodapé
 
 
 # Sobre o Projeto
